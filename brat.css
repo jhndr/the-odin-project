@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    background-color: #88cb00; 
+}
+
+.text {
+    font-size: 72px;
+    color: black;
+    font-family: Arial-narrow;
+    filter:blur(2px);
+}
